@@ -1,0 +1,42 @@
+export const initialQuestions = [
+  {
+    id: "demo-1",
+    title: "Two Sum",
+    category: "DSA",
+    difficulty: "Easy",
+    status: "Completed",
+    type: "DSA Problem",
+  },
+  {
+    id: "demo-2",
+    title: "Reverse a Linked List",
+    category: "DSA",
+    difficulty: "Medium",
+    status: "In Progress",
+    type: "DSA Problem",
+  },
+  {
+    id: "demo-3",
+    title: "Git merge vs rebase",
+    category: "Git",
+    difficulty: "Medium",
+    status: "Pending",
+    type: "Interview Question",
+  },
+  {
+    id: "demo-4",
+    title: "Explain REST API",
+    category: "Technical",
+    difficulty: "Easy",
+    status: "Completed",
+    type: "Interview Question",
+  },
+  {
+    id: "demo-5",
+    title: "Longest Substring Without Repeating Characters",
+    category: "DSA",
+    difficulty: "Hard",
+    status: "Pending",
+    type: "DSA Problem",
+  },
+];
